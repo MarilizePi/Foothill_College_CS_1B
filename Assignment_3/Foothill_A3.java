@@ -13,9 +13,7 @@ public class Foothill_A3 {
 
 		do {
 			System.out.print("Enter Rule (0 - 255): ");
-
 			userInput = input.nextLine();
-
 			rule = Integer.parseInt(userInput);
 		} while (rule < 0 || rule > 255);
 
