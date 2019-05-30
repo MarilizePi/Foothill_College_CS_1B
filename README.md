@@ -1,0 +1,3 @@
+# Foothill_College_CS_1B
+INTERMEDIATE SOFTWARE DESIGN IN JAVA
+Winter quarter 2018
