@@ -1,6 +1,5 @@
 // Marilize Pires
-// CS-1B / A3.
-
+// CS-1B / A3. (review errors)
 
 import java.util.Scanner;
 
